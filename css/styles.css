@@ -1,10 +1,29 @@
 body {
+  background-color: #ffffff;
+}
+
+.main-container {
+  width: 100%;
+  /*max-width: 1200px;*/
+  height: 100vh;
   background-color: #f0f0f0;
 }
 
 /* Header styles */
+.page-header {
+  margin-top: 0px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #0f1316;
+}
+
+.page-header-content {
+  max-width: 1200px;
+}
+
 .page-header-img img {
   max-height: 400px;
+  padding-bottom: 20px;
 }
 
 .page-header-title {
