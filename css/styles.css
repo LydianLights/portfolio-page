@@ -1,12 +1,13 @@
 body {
-  background-color: #ffffff;
+
 }
 
 .main-container {
   width: 100%;
   /*max-width: 1200px;*/
   height: 100vh;
-  background-color: #f0f0f0;
+  color: #efefef;
+  background-color: #0f1316;
 }
 
 /* Header styles */
@@ -14,8 +15,7 @@ body {
   margin-top: 0px;
   padding-top: 70px;
   padding-bottom: 70px;
-  color: #efefef;
-  background-color: #0f1316;
+  border: none;
 }
 
 .page-header-content {
@@ -49,14 +49,12 @@ body {
 }
 
 /* Nav bar styles */
-
+.main-body-header {
+  background-color: #ff00ff;
+}
 
 
 /* Main body styles */
-.main-body-header {
-
-}
-
 .main-body {
 
 }
