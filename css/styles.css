@@ -48,6 +48,7 @@ body {
 /* Nav bar styles */
 .page-content-header {
   padding-top: 30px;
+  margin-bottom: 20px;
 }
 
 .nav li a {
@@ -69,6 +70,9 @@ body {
 
 
 /* Main body styles */
+.page-content h2 {
+  margin-top: 0px;
+}
 .page-content a {
   color: #74c1e0;
 }
