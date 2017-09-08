@@ -1,32 +1,33 @@
-.page-header {
+body {
+  background-color: #f0f0f0;
+}
+
+/* Header styles */
+.page-header-img img {
   height: 400px;
-   /*background-color: yellow; */
-}
-
-.page-header-photo {
-  height: 100%;
-  /*background-color: grey;*/
-}
-
-.page-header-photo img {
-  max-height: 100%;
-  /*background-color: grey;*/
 }
 
 .page-header-title {
-  height: 100%;
-  /*background-color: red;*/
-}
-
-.page-header-title h1 {
   text-align: center;
+  height: 100%;
 }
 
+.page-header-title .text-container {
+  text-align: left;
+  display: inline-block;
+  margin: 0, auto;
+  font-style: italic;
+}
 
+/* Nav bar styles */
+
+
+
+/* Main body styles */
 .main-body-header {
-  /*background-color: purple;*/
+
 }
 
 .main-body {
-  
+
 }
