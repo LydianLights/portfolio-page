@@ -1,0 +1,14 @@
+.page-header {
+  height: 500px;
+  background-color: yellow;
+}
+
+.main-body-header {
+  height: 200px;
+  background-color: purple;
+}
+
+.main-body {
+  height: 500px;
+  background-color: blue;
+}
