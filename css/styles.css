@@ -82,3 +82,26 @@ body {
   line-height: 22px;
   margin-bottom: 30px;
 }
+
+/* Project panel styles */
+a.project {
+  text-decoration: none;
+}
+
+.project .panel {
+
+}
+
+.project .panel-body {
+
+}
+
+.project .panel-heading {
+  color: #efefef;
+  background-color: #282d30;
+}
+
+.project .panel-body {
+  color: #efefef;
+  background-color: #2e363d;
+}
