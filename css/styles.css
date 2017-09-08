@@ -68,6 +68,7 @@ body {
 }
 
 .page-content-body p {
+  font-size: 15px;
   line-height: 22px;
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
