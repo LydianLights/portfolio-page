@@ -50,13 +50,27 @@ body {
   padding-top: 30px;
 }
 
+.nav li a {
+  color: #efefef;
+  background-color: #3d4851;
+  border-bottom: none;
+}
+
 .nav .empty {
   display: inline-block;
-  width: 30px;
+  width: 20px;
 }
 
 
 /* Main body styles */
+.page-content {
+
+}
+
+.page-content a {
+  color: #74c1e0;
+}
+
 .page-content-body {
 
 }
