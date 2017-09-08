@@ -63,14 +63,11 @@ body {
 
 
 /* Main body styles */
-.page-content {
-
-}
-
 .page-content a {
   color: #74c1e0;
 }
 
-.page-content-body {
-
+.page-content-body p {
+  line-height: 22px;
+    margin-bottom: 30px;
 }
