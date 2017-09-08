@@ -56,6 +56,12 @@ body {
   border-bottom: none;
 }
 
+.nav li a:hover {
+  /*color: #282d30;*/
+  background-color: #2e363d;
+  border-color: transparent;
+}
+
 .nav .empty {
   display: inline-block;
   width: 20px;
