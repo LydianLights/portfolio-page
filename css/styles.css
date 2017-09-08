@@ -1,21 +1,21 @@
 body {
-
+  color: #efefef;
+  background-color: #282d30;
 }
 
 .main-container {
   width: 100%;
-  /*max-width: 1200px;*/
-  height: 100vh;
-  color: #efefef;
-  background-color: #0f1316;
 }
 
 /* Header styles */
 .page-header {
   margin-top: 0px;
+  margin-bottom: 0px;
   padding-top: 70px;
   padding-bottom: 70px;
   border: none;
+  color: #efefef;
+  background-color: #0f1316;
 }
 
 .page-header-content {
@@ -50,7 +50,12 @@ body {
 
 /* Nav bar styles */
 .main-body-header {
-  background-color: #f0f0f0;
+  padding-top: 30px;
+}
+
+.nav .empty {
+  display: inline-block;
+  width: 30px;
 }
 
 
