@@ -14,6 +14,7 @@ body {
   margin-top: 0px;
   padding-top: 70px;
   padding-bottom: 70px;
+  color: #efefef;
   background-color: #0f1316;
 }
 
@@ -35,7 +36,16 @@ body {
   text-align: left;
   display: inline-block;
   margin: 0, auto;
+  padding-right: 20px;
   font-style: italic;
+}
+
+.page-header-title h1 {
+  font-size: 60px;
+}
+
+.page-header-title p {
+  font-size: 15px;
 }
 
 /* Nav bar styles */
