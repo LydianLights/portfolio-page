@@ -89,7 +89,12 @@ a.project {
 }
 
 .project .panel {
+  margin-bottom: 50px;
+    transition: transform .2s;
+}
 
+.project .panel:hover {
+    transform: scale(1.05, 1.05);
 }
 
 .project .panel-body {
