@@ -1,14 +1,32 @@
 .page-header {
-  height: 500px;
-  background-color: yellow;
+  height: 400px;
+   /*background-color: yellow; */
 }
 
+.page-header-photo {
+  height: 100%;
+  /*background-color: grey;*/
+}
+
+.page-header-photo img {
+  max-height: 100%;
+  /*background-color: grey;*/
+}
+
+.page-header-title {
+  height: 100%;
+  /*background-color: red;*/
+}
+
+.page-header-title h1 {
+  text-align: center;
+}
+
+
 .main-body-header {
-  height: 200px;
-  background-color: purple;
+  /*background-color: purple;*/
 }
 
 .main-body {
-  height: 500px;
-  background-color: blue;
+  
 }
