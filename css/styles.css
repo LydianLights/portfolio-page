@@ -130,3 +130,11 @@ a.project {
   margin-top: 40px;
   margin-bottom: 50px;
 }
+
+.page-content-footer small {
+  display: inline-block;
+  padding-bottom: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-bottom: 1px solid #fefefe;
+}
