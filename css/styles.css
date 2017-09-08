@@ -123,3 +123,10 @@ a.project {
   color: #efefef;
   background-color: #2e363d;
 }
+
+/* Footer styles */
+.page-content-footer {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
